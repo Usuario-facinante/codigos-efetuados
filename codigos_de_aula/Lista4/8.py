@@ -1,3 +1,4 @@
+"""Verifique se um inteiro positivo n é primo."""
 Numero = int(input("Digite um número para saber se ele é primo ou não."))
 if Numero <= 1:
     print ("Não é primo")
